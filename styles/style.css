@@ -1,4 +1,24 @@
-p{
-    color: red;
-    font-size: 3rem;
+/* ********************************************************
+          _________Imported Fonts__________
+*********************************************************** */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+/* ********************************************************
+              _________Common CSS__________
+*********************************************************** */
+
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
+
+.navbar-content{
+    display: flex !important;
+    justify-content: space-between !important;
+    
+}
+
+
+
